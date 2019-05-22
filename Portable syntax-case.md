@@ -1,0 +1,13 @@
+# Portable syntax-case
+
+[Abdulaziz Ghuloum](https://web.archive.org/web/20170426091743/http://www.cs.indiana.edu/~aghuluom/), [R. Kent Dybvig](https://web.archive.org/web/20170426091743/http://www.cs.indiana.edu/~dyb/)
+
+The portable syntax-case macro system implements the restricted high-level `syntax-rules` and equally high-level but general-purpose `syntax-case` macros of the [Revised Report on Scheme](https://web.archive.org/web/20170426091743/http://www.r6rs.org/) (R6RS). It also implements R6RS libraries and all built-in R6RS syntactic forms.
+
+The system is documented in the R6RS and also described, with numerous examples, in Section 3.1 and Chapter 8 of [The Scheme Programming Language, 4th edition](https://web.archive.org/web/20170426091743/http://www.scheme.com/tspl4/).
+
+Aspects of the macro system and its implementation are described in [Syntactic abstraction in Scheme](https://web.archive.org/web/20170426091743/http://www.cs.indiana.edu/~dyb/pubs/LaSC-5-4-pp295-326-abstract.html). Additional examples of its use are given in [Writing hygienic macros in Scheme with syntax-case](https://web.archive.org/web/20170426091743/http://www.cs.indiana.edu/~dyb/pubs/tr356-abstract.html). Aspects of the library system and its implementation are described in [Implicit phasing for R6RS libraries](https://web.archive.org/web/20170426091743/http://www.cs.indiana.edu/~dyb/pubs/implicit-phasing-abstract.html).
+
+The portable system is designed to be adaptable with minimal effort to any R6RS or R5RS implementation of Scheme, with the provision of a small set of implementation-dependent hooks. Along with a reader, the system forms a complete front-end for Scheme. If the reader and evaluator support source annotations (e.g., file and line number information), these are handled as well to provide source-object correlation.
+
+More information on the psyntax system and links to the implementation can be found at Aziz Ghuloum's [psyntax page](https://web.archive.org/web/20170426091743/http://ikarus-scheme.org/r6rs-libraries), a backup copy of which is [here](https://web.archive.org/web/20170426091743/http://www.cs.indiana.edu/chezscheme/r6rs-libraries). The system was created by Abdulaziz Ghuloum and Kent Dybvig based on an [earlier implementation](https://web.archive.org/web/20170426091743/http://www.cs.indiana.edu/chezscheme/syntax-case/old-psyntax.html) by Kent Dybvig, Oscar Waddell, Bob Hieb, and Carl Bruggeman.
