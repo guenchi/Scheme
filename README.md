@@ -1,6 +1,6 @@
 # Scheme
 
-# Thanks
+### Thanks
 
 @andregrigon For created the following gists of the Markdown versions:
 
