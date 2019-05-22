@@ -2,7 +2,7 @@
 
 ### Thanks
 
-@andregrigon For created the following gists of the Markdown versions:
+@andregrigon for created the following gists of the Markdown versions:
 
 > [Emacs support for (Petite) Chez Scheme](https://gist.github.com/andregrigon/5f99c76939e6c9f9994a1b01b01b077b)
 
