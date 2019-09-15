@@ -1,6 +1,6 @@
 # Scheme
 
-Please visite the Home Page:
+Please visit the Home Page:
 
 [https://guenchi.github.io/Scheme/](https://guenchi.github.io/Scheme/)
 
