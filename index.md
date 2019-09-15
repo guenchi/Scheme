@@ -26,13 +26,13 @@
 
 ## D
 
-[Define Syntax Primer](doc/Define%20Syntax%20Primer.pdf)
+[Define Syntax Primer](doc/Define%20Syntax%20Primer.txt)
 
 [Destination-Driven Code Generation](doc/Destination-Driven%20Code%20Generation.pdf)
 
 ## E
 
-[Emacs support for  Chez Scheme](doc/Emacs%20support%20for%20%20Chez%20Scheme.pdf)
+[Emacs support for  Chez Scheme](doc/Emacs%20support%20for%20%20Chez%20Scheme.md)
 
 [Enabling Cross-Library Optimization and Compile-Time Error Checking in the Presence of Procedural Macros](doc/Enabling%20Cross-Library%20Optimization%20and%20Compile-Time%20Error%20Checking%20in%20the%20Presence%20of%20Procedural%20Macros.pdf)
 
@@ -52,7 +52,7 @@
 
 ## H
 
-[How to Debug Chez Scheme Programs](doc/How%20to%20Debug%20Chez%20Scheme%20Programs.pdf)
+[How to Debug Chez Scheme Programs](doc/How%20to%20Debug%20Chez%20Scheme%20Programs.md)
 
 [How to get into trouble with CPS macros](doc/How%20to%20get%20into%20trouble%20with%20CPS%20macros.pdf)
 
@@ -78,11 +78,13 @@
 
 [Perf Study on Stack and Register Based VM](doc/Perf%20Study%20on%20Stack%20and%20Register%20Based%20VM.pdf)
 
-[Portable Syntax-Case](doc/Portable%20Syntax-Case.pdf)
+[Portable Syntax-Case](doc/Portable%20Syntax-Case.md)
 
 [Programming Languages and Lambda Calculi](doc/Programming%20Languages%20and%20Lambda%20Calculi.pdf)
 
 [Pruning, Pushdown Exception-Flow Analysis](doc/Pruning,%20Pushdown%20Exception-Flow%20Analysis.pdf)
+
+[Publications Related to Chez Scheme](Publications%20Related%20to%20Chez%20Scheme.md)
 
 ## S
 
