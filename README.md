@@ -1,10 +1,11 @@
 # Scheme
 
-Please visit the Home Page:
+Please visit the Home Page for better visibility:
 
 [https://guenchi.github.io/Scheme/](https://guenchi.github.io/Scheme/)
 
-### Thanks
+
+## Thanks
 
 @andregrigon for created the following gists of the Markdown versions:
 
