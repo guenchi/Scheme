@@ -2,7 +2,7 @@
 
 ## A
 
-R. Kent Dybvig, SP Jones, A Sabry (2007) **[A Monadic Framework for Delimited Continuations.](doc/A%20Monadic%20Framework%20for%20Delimited%20Continuations.pdf)** _Journal of Functional Programming_
+R. Kent Dybvig, SP Jones, A Sabry (2007) **[A Monadic Framework for Delimited Continuations](doc/A%20Monadic%20Framework%20for%20Delimited%20Continuations.pdf)** _Journal of Functional Programming_
 
 Andrew W. Keep, R. Kent Dybvig (2013) **[A Nanopass Framework for Commercial Compiler Development](doc/A%20Nanopass%20Framework%20for%20Commercial%20Compiler%20Development.pdf.pdf)**  _International Conference on Functional Programming_
 
