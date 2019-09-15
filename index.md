@@ -1,4 +1,4 @@
-
+## A
 
 [A Monadic Framewor for Delimited Continuations](doc/A%20Monadic%20Framework%20for%20Delimited%20Continuations.pdf)
 
@@ -18,13 +18,19 @@
 
 [An Optimized R5RS Macro Expander](doc/An%20Optimized%20R5RS%20Macro%20Expander)
 
+## C
+
 [Compiling Scheme to JavaScript](doc/Compiling%20Scheme%20to%20JavaScript)
 
 [CONS Should Not CONS Its Arguments Part II Cheney on the MTA](doc/CONS%20Should%20Not%20CONS%20Its%20Arguments%20Part%20II%20Cheney%20on%20the%20MTA)
 
+## D
+
 [Define Syntax Primer](doc/Define%20Syntax%20Primer)
 
 [Destination-Driven Code Generation](doc/Destination-Driven%20Code%20Generation)
+
+## E
 
 [Emacs support for  Chez Scheme](doc/Emacs%20support%20for%20%20Chez%20Scheme)
 
@@ -36,11 +42,15 @@
 
 [Extending the Scope of Syntactic Abstraction](doc/Extending%20the%20Scope%20of%20Syntactic%20Abstraction)
 
+## F
+
 [Fast and Effective Procedure Inlining](doc/Fast%20and%20Effective%20Procedure%20Inlining)
 
 [Flow-Directed Lightweight Closure Conversion](doc/Flow-Directed%20Lightweight%20Closure%20Conversion)
 
 [Ftypes Structured foreign types](doc/Ftypes%20Structured%20foreign%20types)
+
+## H
 
 [How to Debug Chez Scheme Programs](doc/How%20to%20Debug%20Chez%20Scheme%20Programs)
 
@@ -48,13 +58,23 @@
 
 [Hygiene-Compatible Macros in an Unhygienic Macro System](doc/Hygiene-Compatible%20Macros%20in%20an%20Unhygienic%20Macro%20System)
 
+## I
+
 [Implicit Phasing for R6RS Libraries](doc/Implicit%20Phasing%20for%20R6RS%20Libraries)
+
+## M
 
 [Macro Tutorial](doc/Macro%20Tutorial)
 
+## N
+
 [Nanopass Framework Users Guide](doc/Nanopass%20Framework%20Users%20Guide)
 
+## O
+
 [Optimizing Closures in O(0) time](doc/Optimizing%20Closures%20in%20O(0)%20time)
+
+## P
 
 [Perf Study on Stack and Register Based VM](doc/Perf%20Study%20on%20Stack%20and%20Register%20Based%20VM)
 
@@ -64,11 +84,17 @@
 
 [Pruning, Pushdown Exception-Flow Analysis](doc/Pruning,%20Pushdown%20Exception-Flow%20Analysis)
 
+## S
+
 [Syntactic Abstraction the Syntax-Case Expander](doc/Syntactic%20Abstraction%20the%20Syntax-Case%20Expander)
+
+## T
 
 [The Development of Chez Scheme](doc/The%20Development%20of%20Chez%20Scheme)
 
 [Three Implementation Models for Scheme](doc/Three%20Implementation%20Models%20for%20Scheme)
+
+## W
 
 [Writing Hygienic Macros in Scheme with Syntax-Case](doc/Writing%20Hygienic%20Macros%20in%20Scheme%20with%20Syntax-Case)
 
