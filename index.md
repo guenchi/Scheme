@@ -44,7 +44,7 @@ Andrew W. Keep, R. Kent Dybvig (2013) **[A Nanopass Framework for Commercial Com
 
 **[Evolution of Lisp.](doc/Evolution%20of%20Lisp.pdf)**
 
-**[Extending the Scope of Syntactic Abstraction.](doc/Extending%20the%20Scope%20of%20Syntactic%20Abstraction.pdf)** Not the full version.
+**[Extending the Scope of Syntactic Abstraction.](doc/Extending%20the%20Scope%20of%20Syntactic%20Abstraction.pdf)** Not the [full version](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.71.363&rep=rep1&type=pdf).
 
 ## F
 
