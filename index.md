@@ -34,7 +34,7 @@ Andrew W. Keep, R. Kent Dybvig (2013) **[A Nanopass Framework for Commercial Com
 
 ## E
 
-**[Efficient Nondestructive Equality Checking for Trees and Graphs](doc/Efficient%20Nondestructive%20Equality%20Checking%20for%20Trees%20and%20Graphs.md)**
+**[Efficient Nondestructive Equality Checking for Trees and Graphs](doc/Efficient%20Nondestructive%20Equality%20Checking%20for%20Trees%20and%20Graphs.pdf)**
 
 **[Emacs support for  Chez Scheme.](doc/Emacs%20support%20for%20%20Chez%20Scheme.md)**
 
@@ -52,9 +52,9 @@ Andrew W. Keep, R. Kent Dybvig (2013) **[A Nanopass Framework for Commercial Com
 
 **[Flow-Directed Lightweight Closure Conversion.](doc/Flow-Directed%20Lightweight%20Closure%20Conversion.pdf)**
 
-**[Fixing Letrec A Faithful Yet Efficient Implementation of Scheme’s Recursive Binding Construct](doc/Fixing%20Letrec%20A%20Faithful%20Yet%20Efficient%20Implementation%20of%20Scheme’s%20Recursive%20Binding%20Construct.md)**
+**[Fixing Letrec A Faithful Yet Efficient Implementation of Scheme’s Recursive Binding Construct](doc/Fixing%20Letrec%20A%20Faithful%20Yet%20Efficient%20Implementation%20of%20Scheme’s%20Recursive%20Binding%20Construct.pdf)**
 
-**[Fixing Letrec (reloaded)](doc/Fixing%20Letrec%20(reloaded).md)**
+**[Fixing Letrec (reloaded)](doc/Fixing%20Letrec%20(reloaded).pdf)**
 
 **[Ftypes Structured foreign types.](doc/Ftypes%20Structured%20foreign%20types.pdf)**
 
@@ -80,7 +80,7 @@ Andrew W. Keep, R. Kent Dybvig (2013) **[A Nanopass Framework for Commercial Com
 
 ## O
 
-**[Optimizing Closures in O(0.pdf)** time.](doc/Optimizing%20Closures%20in%20O(0)%20time.pdf)**
+**[Optimizing Closures in O(0) time.](doc/Optimizing%20Closures%20in%20O(0)%20time.pdf)**
 
 ## P
 
@@ -96,7 +96,7 @@ Andrew W. Keep, R. Kent Dybvig (2013) **[A Nanopass Framework for Commercial Com
 
 ## R
 
-**[Register Allocation via Graph Coloring](doc/Register%20Allocation%20via%20Graph%20Coloring.md)**
+**[Register Allocation via Graph Coloring](doc/Register%20Allocation%20via%20Graph%20Coloring.pdf)**
 
 ## S
 
