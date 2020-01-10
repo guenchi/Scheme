@@ -34,6 +34,8 @@ Andrew W. Keep, R. Kent Dybvig (2013) **[A Nanopass Framework for Commercial Com
 
 ## E
 
+**[Efficient Nondestructive Equality Checking for Trees and Graphs](doc/Efficient%20Nondestructive%20Equality%20Checking%20for%20Trees%20and%20Graphs.md)**
+
 **[Emacs support for  Chez Scheme.](doc/Emacs%20support%20for%20%20Chez%20Scheme.md)**
 
 **[Enabling Cross-Library Optimization and Compile-Time Error Checking in the Presence of Procedural Macros.](doc/Enabling%20Cross-Library%20Optimization%20and%20Compile-Time%20Error%20Checking%20in%20the%20Presence%20of%20Procedural%20Macros.pdf)**
@@ -42,13 +44,17 @@ Andrew W. Keep, R. Kent Dybvig (2013) **[A Nanopass Framework for Commercial Com
 
 **[Evolution of Lisp.](doc/Evolution%20of%20Lisp.pdf)**
 
-**[Extending the Scope of Syntactic Abstraction.](doc/Extending%20the%20Scope%20of%20Syntactic%20Abstraction.pdf)**
+**[Extending the Scope of Syntactic Abstraction.](doc/Extending%20the%20Scope%20of%20Syntactic%20Abstraction.pdf)** Not the full version.
 
 ## F
 
 **[Fast and Effective Procedure Inlining.](doc/Fast%20and%20Effective%20Procedure%20Inlining.pdf)**
 
 **[Flow-Directed Lightweight Closure Conversion.](doc/Flow-Directed%20Lightweight%20Closure%20Conversion.pdf)**
+
+**[Fixing Letrec A Faithful Yet Efficient Implementation of Scheme’s Recursive Binding Construct](doc/Fixing%20Letrec%20A%20Faithful%20Yet%20Efficient%20Implementation%20of%20Scheme’s%20Recursive%20Binding%20Construct.md)**
+
+**[Fixing Letrec (reloaded)](doc/Fixing%20Letrec%20(reloaded).md)**
 
 **[Ftypes Structured foreign types.](doc/Ftypes%20Structured%20foreign%20types.pdf)**
 
@@ -87,6 +93,10 @@ Andrew W. Keep, R. Kent Dybvig (2013) **[A Nanopass Framework for Commercial Com
 **[Pruning, Pushdown Exception-Flow Analysis.](doc/Pruning,%20Pushdown%20Exception-Flow%20Analysis.pdf)**
 
 **[Publications Related to Chez Scheme.](Publications%20Related%20to%20Chez%20Scheme.md)**
+
+## R
+
+**[Register Allocation via Graph Coloring](doc/Register%20Allocation%20via%20Graph%20Coloring.md)**
 
 ## S
 
