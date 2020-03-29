@@ -1,12 +1,14 @@
 # Scheme Related Papers
 
+[GitHub Mirror](https://guenchi.github.io/Scheme/)
+
 ## A
 
 R. Kent Dybvig, SP Jones, A Sabry (2007) **[A Monadic Framework for Delimited Continuations.](doc/A%20Monadic%20Framework%20for%20Delimited%20Continuations.pdf)** _Journal of Functional Programming_
 
-Andrew W. Keep, R. Kent Dybvig (2013) **[A Nanopass Framework for Commercial Compiler Development.](doc/A%20Nanopass%20Framework%20for%20Commercial%20Compiler%20Development.pdf.pdf)**  _International Conference on Functional Programming_
+Andrew W. Keep, R. Kent Dybvig (2013) **[A Nanopass Framework for Commercial Compiler Development.](doc/A%20Nanopass%20Framework%20for%20Commercial%20Compiler%20Development.pdf)**  _International Conference on Functional Programming_
 
-**[A Nanopass Framework for Compiler Education.](doc/A%20Nanopass%20Framework%20for%20Compiler%20Education.pdf.pdf)**
+**[A Nanopass Framework for Compiler Education.](doc/A%20Nanopass%20Framework%20for%20Compiler%20Education.pdf)**
 
 **[A Scheme for native threads.](doc/A%20Scheme%20for%20native%20threads.pdf)**
 
